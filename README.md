@@ -27,7 +27,7 @@ Install dependencies:
 Run
 ---
 
-Once installed, the following scripts are available under ./bin:
+Once setup is complete, the following scripts are available under ./bin:
 
     bin
     ├── collector
@@ -40,5 +40,5 @@ just run
 
     ./bin/zeromqdemos-main
 
-Which will set up a producer, 3 consumers and a collector, each running in
-a separate process with the collected results printed to stdout.
+which will set up a producer, 3 consumers and a collector, each running in
+a separate process, with the collected results printed to stdout.
